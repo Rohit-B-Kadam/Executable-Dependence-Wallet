@@ -1,0 +1,15 @@
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\bin\Debug\Executable Dependency Wallet.exe.config
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\bin\Debug\Executable Dependency Wallet.exe
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\bin\Debug\Executable Dependency Wallet.pdb
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\obj\Debug\Executable Dependency Wallet.csprojAssemblyReference.cache
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\obj\Debug\MainWindow.g.cs
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\obj\Debug\App.g.cs
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\obj\Debug\Executable Dependency Wallet_MarkupCompile.cache
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\obj\Debug\Executable Dependency Wallet_MarkupCompile.lref
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\obj\Debug\MainWindow.baml
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\obj\Debug\Executable Dependency Wallet.g.resources
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\obj\Debug\Executable_Dependency_Wallet.Properties.Resources.resources
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\obj\Debug\Executable Dependency Wallet.csproj.GenerateResource.cache
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\obj\Debug\Executable Dependency Wallet.csproj.CoreCompileInputs.cache
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\obj\Debug\Executable Dependency Wallet.exe
+H:\Technology\Dot Net\Project\Executable Dependency Wallet\Executable Dependency Wallet\obj\Debug\Executable Dependency Wallet.pdb
